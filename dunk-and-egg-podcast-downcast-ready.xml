@@ -12,8 +12,14 @@
     <itunes:author>DavidReadsASoIaF</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-<itunes:image href="https://dn710104.ca.archive.org/0/items/dunk-and-egg_audiobook-davidreadsasoiaf/__ia_thumb.jpg" />
-    <item>
+    <itunes:image href="https://dn710104.ca.archive.org/0/items/dunk-and-egg_audiobook-davidreadsasoiaf/__ia_thumb.jpg" />
+      <image>
+  <url>https://raw.githubusercontent.com/YOURUSERNAME/YOURREPO/main/dunk-and-egg-cover.jpg</url>
+  <title>Tales of Dunk and Egg (Audiobook)</title>
+  <link>https://archive.org/details/dunk-and-egg_audiobook-davidreadsasoiaf</link>
+    </image>  
+       
+       <item>
       <title>The Hedge Knight – Part 1</title>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/dunk-and-egg_audiobook-davidreadsasoiaf/1.%20The%20Hedge%20Knight%20-%20Part%201%20%28480p_30fps_H264-128kbit_AAC%29.mp4" type="audio/mp4"/>
