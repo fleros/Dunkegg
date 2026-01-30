@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Windows of Winter (Preview Chapters) – Audiobook (DavidReadsASoIaF)</title>
+    <link>https://archive.org/details/ADWD_preview_audiobook-DavidReadsASoIaF</link>
+    <description>
+The Windows of Winter (Preview Chapters) read by DavidReadsASoIaF.
+Fan-made podcast feed using files hosted on the Internet Archive.
+</description>
+    <language>en-us</language>
+    <itunes:author>DavidReadsASoIaF</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+	    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://archive.org/download/ADWD_preview_audiobook-DavidReadsASoIaF/__ia_thumb.jpg"/>
+      <image>
+  <url>https://archive.org/download/ADWD_preview_audiobook-DavidReadsASoIaF/__ia_thumb.jpg</url>
+             </image>
+			 
+    <item>
+      <title>The Winds of Winter - Preview Chapter - Alayne I</title>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/ADWD_preview_audiobook-DavidReadsASoIaF/1.%20The%20Winds%20of%20Winter%20-%20Preview%20Chapter%20-%20Alayne%20I%20%28480p_24fps_H264-128kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>twow-preview-01</guid>
+    </item>
+
+    <item>
+      <title>The Winds of Winter - Preview Chapter - Theon I</title>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/ADWD_preview_audiobook-DavidReadsASoIaF/2.%20The%20Winds%20of%20Winter%20-%20Preview%20Chapter%20-%20Theon%20I%20%28480p_24fps_H264-128kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>twow-preview-02</guid>
+    </item>
+
+    <item>
+      <title>The Winds of Winter - [Partial] Preview Chapter - Victarion I</title>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/ADWD_preview_audiobook-DavidReadsASoIaF/3.%20The%20Winds%20of%20Winter%20-%20%5BPartial%5D%20Preview%20Chapter%20-%20Victarion%20I%20%28480p_24fps_H264-128kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>twow-preview-03</guid>
+    </item>
+
+    <item>
+      <title>The Winds of Winter - Preview Chapter - Barristan I</title>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/ADWD_preview_audiobook-DavidReadsASoIaF/4.%20The%20Winds%20of%20Winter%20-%20Preview%20Chapter%20-%20Barristan%20I%20%28480p_24fps_H264-128kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>twow-preview-04</guid>
+    </item>
+
+    <item>
+      <title>The Winds of Winter - Preview Chapter - Tyrion II</title>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/ADWD_preview_audiobook-DavidReadsASoIaF/5.%20The%20Winds%20of%20Winter%20-%20Preview%20Chapter%20-%20Tyrion%20II%20%28480p_24fps_H264-128kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>twow-preview-05</guid>
+    </item>
+
+    <item>
+      <title>The Winds of Winter - Preview Chapter - Arianne I</title>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/ADWD_preview_audiobook-DavidReadsASoIaF/6.%20The%20Winds%20of%20Winter%20-%20Preview%20Chapter%20-%20Arianne%20I%20%28480p_24fps_H264-128kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>twow-preview-06</guid>
+    </item>
+
+    <item>
+      <title>The Winds of Winter - Preview Chapter - Mercy</title>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/ADWD_preview_audiobook-DavidReadsASoIaF/7.%20The%20Winds%20of%20Winter%20-%20Preview%20Chapter%20-%20Mercy%20%28480p_24fps_H264-128kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>twow-preview-07</guid>
+    </item>
+
+    <item>
+      <title>The Winds of Winter - Preview Chapter - Arianne II</title>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/ADWD_preview_audiobook-DavidReadsASoIaF/8.%20The%20Winds%20of%20Winter%20-%20Preview%20Chapter%20-%20Arianne%20II%20%28480p_24fps_H264-128kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>twow-preview-08</guid>
+    </item>
+
+    <item>
+      <title>The Winds of Winter - Preview Chapter - The Forsaken</title>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/ADWD_preview_audiobook-DavidReadsASoIaF/9.%20The%20Winds%20of%20Winter%20-%20Preview%20Chapter%20-%20The%20Forsaken%20%28480p_24fps_H264-128kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>twow-preview-09</guid>
+    </item>
+
+  </channel>
+</rss>			 
