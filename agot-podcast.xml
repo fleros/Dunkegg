@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Game of Thrones – Audiobook (DavidReadsASoIaF)</title>
+    <link>https://archive.org/details/AGOT_audiobook-DavidReadsASoIaF</link>
+    <description>
+      A Game of Thrones audiobook read by DavidReadsASoIaF.
+      Fan-made podcast feed using files hosted on the Internet Archive.
+    </description>
+    <language>en-us</language>
+    <itunes:author>DavidReadsASoIaF</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/__ia_thumb.jpg"/>
+       <image>
+  <url>https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/__ia_thumb.jpg</url>
+             </image>
+    <item>
+      <title>A Game of Thrones - Chapter 0 - Prologue</title>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%200%20-%20Prologue%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-0</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 01 - Bran I</title>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2001%20-%20Bran%20I%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-1</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 02 - Catelyn I</title>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2002%20-%20Catelyn%20I%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-2</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 03 - Daenerys I</title>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2003%20-%20Daenerys%20I%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-3</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 04 - Eddard I</title>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2004%20-%20Eddard%20I%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-4</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 05 - Jon I</title>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2005%20-%20Jon%20I%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-5</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 06 - Catelyn II</title>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2006%20-%20Catelyn%20II%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-6</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 07 - Arya I</title>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2007%20-%20Arya%20I%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-7</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 08 - Bran II</title>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2008%20-%20Bran%20II%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-8</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 09 - Tyrion I</title>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2009%20-%20Tyrion%20I%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-9</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 10 - Jon II</title>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2010%20-%20Jon%20II%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-10</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 11 - Daenerys II</title>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2011%20-%20Daenerys%20II%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-11</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 12 - Eddard II</title>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2012%20-%20Eddard%20II%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-12</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 13 - Tyrion II</title>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2013%20-%20Tyrion%20II%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-13</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 14 - Catelyn III</title>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2014%20-%20Catelyn%20III%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-14</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 15 - Sansa I</title>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2015%20-%20Sansa%20I%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-15</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 16 - Eddard III</title>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2016%20-%20Eddard%20III%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-16</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 17 - Bran III</title>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2017%20-%20Bran%20III%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-17</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 18 - Catelyn IV</title>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2018%20-%20Catelyn%20IV%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-18</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 19 - Jon III</title>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2019%20-%20Jon%20III%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-19</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 20 - Eddard IV</title>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2020%20-%20Eddard%20IV%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-20</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 21 - Tyrion III</title>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2021%20-%20Tyrion%20III%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-21</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 22 - Arya II</title>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2022%20-%20Arya%20II%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-22</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 23 - Daenerys III</title>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2023%20-%20Daenerys%20III%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-23</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 24 - Bran IV</title>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2024%20-%20Bran%20IV%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-24</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 25 - Eddard V</title>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2025%20-%20Eddard%20V%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-25</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 26 - Jon IV</title>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2026%20-%20Jon%20IV%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-26</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 27 - Eddard VI</title>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2027%20-%20Eddard%20VI%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-27</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 28 - Catelyn V</title>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2028%20-%20Catelyn%20V%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-28</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 29 - Sansa II</title>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2029%20-%20Sansa%20II%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-29</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 30 - Eddard VII</title>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2030%20-%20Eddard%20VII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-30</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 31 - Tyrion IV</title>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2031%20-%20Tyrion%20IV%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-31</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 32 - Arya III</title>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2032%20-%20Arya%20III%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-32</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 33 - Eddard VIII</title>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2033%20-%20Eddard%20VIII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-33</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 34 - Catelyn VI</title>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2034%20-%20Catelyn%20VI%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-34</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 35 - Eddard IX</title>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2035%20-%20Eddard%20IX%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-35</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 36 - Daenerys IV</title>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2036%20-%20Daenerys%20IV%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-36</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 37 - Bran V</title>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2037%20-%20Bran%20V%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-37</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 38 - Tyrion V</title>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2038%20-%20Tyrion%20V%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-38</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 39 - Eddard X</title>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2039%20-%20Eddard%20X%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-39</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 40 - Catelyn VII</title>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2040%20-%20Catelyn%20VII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-40</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 41 - Jon V</title>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2041%20-%20Jon%20V%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-41</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 42 - Tyrion VI</title>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2042%20-%20Tyrion%20VI%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-42</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 43 - Eddard XI</title>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2043%20-%20Eddard%20XI%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-43</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 44 - Sansa III</title>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2044%20-%20Sansa%20III%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-44</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 45 - Eddard XII</title>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2045%20-%20Eddard%20XII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-45</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 46 - Daenerys V</title>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2046%20-%20Daenerys%20V%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-46</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 47 - Eddard XIII</title>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2047%20-%20Eddard%20XIII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-47</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 48 - Jon VI</title>
+      <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2048%20-%20Jon%20VI%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-48</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 49 - Eddard XIV</title>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2049%20-%20Eddard%20XIV%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-49</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 50 - Arya IV</title>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2050%20-%20Arya%20IV%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-50</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 51 - Sansa IV</title>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2051%20-%20Sansa%20IV%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-51</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 52 - Jon VII</title>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2052%20-%20Jon%20VII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-52</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 53 - Bran VI</title>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2053%20-%20Bran%20VI%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-53</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 54 - Daenerys VI</title>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2054%20-%20Daenerys%20VI%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-54</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 55 - Catelyn VIII</title>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2055%20-%20Catelyn%20VIII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-55</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 56 - Tyrion VII</title>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2056%20-%20Tyrion%20VII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-56</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 57 - Sansa V</title>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2057%20-%20Sansa%20V%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-57</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 58 - Eddard XV</title>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2058%20-%20Eddard%20XV%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-58</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 59 - Catelyn IX</title>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2059%20-%20Catelyn%20IX%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-59</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 60 - Jon VIII</title>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2060%20-%20Jon%20VIII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-60</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 61 - Daenerys VII</title>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2061%20-%20Daenerys%20VII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-61</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 62 - Tryion VIII</title>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2062%20-%20Tryion%20VIII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-62</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 63 - Catelyn X</title>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2063%20-%20Catelyn%20X%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-63</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 64 - Daenerys VIII</title>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2064%20-%20Daenerys%20VIII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-64</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 65 - Arya V</title>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2065%20-%20Arya%20V%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-65</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 66 - Bran VII</title>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2066%20-%20Bran%20VII%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-66</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 67 - Sansa VI</title>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2067%20-%20Sansa%20VI%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-67</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 68 - Daenerys IX</title>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2068%20-%20Daenerys%20IX%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-68</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 69 - Tyrion IX</title>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2069%20-%20Tyrion%20IX%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-69</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 70 - Jon IX</title>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2070%20-%20Jon%20IX%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-70</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 71 - Catelyn XI</title>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2071%20-%20Catelyn%20XI%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-71</guid>
+    </item>
+    <item>
+      <title>A Game of Thrones - Chapter 72 - Daenerys X</title>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/AGOT_audiobook-DavidReadsASoIaF/A%20Game%20of%20Thrones%20-%20Chapter%2072%20-%20Daenerys%20X%20%28720p_30fps_H264-192kbit_AAC%29.mp4" type="audio/mp4"/>
+      <guid>agot-chapter-72</guid>
+    </item>
+  </channel>
+</rss>
